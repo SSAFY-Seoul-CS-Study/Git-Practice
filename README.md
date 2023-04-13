@@ -142,7 +142,7 @@ git push origin <add-your-name>
 
 ## Issue에 본인을 담당자로 등록하는 법
 
-
+![image](https://user-images.githubusercontent.com/77713508/231614793-52bd2ebb-e519-443c-9c8c-84e7e4fabadb.png)
 
 Issues -> `열려있는 issue 선택` -> 우측에 Assignees에 본인 지정 후 작업 시작
 
